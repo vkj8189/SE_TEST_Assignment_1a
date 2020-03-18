@@ -38,7 +38,7 @@ public class Calc_Test {
         int num1,num2,answerAdd,answerMult,answerDiv,answerSub;
         
         num1 = 6;
-        num2 = 5;
+        num2 = 4;
         answerAdd = add(num1,num2);
         answerSub = sub(num1,num2);
         
